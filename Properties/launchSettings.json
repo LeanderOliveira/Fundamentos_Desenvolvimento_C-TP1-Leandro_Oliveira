@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TP1CalculadoraTodasOperacoes": {
+      "commandName": "Project"
+    },
+    "WSL 2": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
